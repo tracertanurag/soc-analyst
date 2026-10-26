@@ -5,59 +5,6 @@ This repository represents a complete SOC Analyst (L1/L2) portfolio demonstratin
 This repository represents a **complete SOC Analyst (L1/L2) portfolio** demonstrating **real-world Blue Team operations** including alert monitoring, log analysis, incident response, detection engineering, MITRE ATT&CK mapping, SOC documentation, and escalation workflows.
 
 
-
----
-
-## 📂 Repository Structure
-
-```
-soc-analyst-portfolio/
-│
-├── README.md
-│
-├── incident-response/
-│   ├── phishing-investigation.md
-│   ├── malware-incident.md
-│   ├── brute-force-attack.md
-│   └── ransomware-response.md
-│
-├── detection-rules/
-│   ├── splunk/
-│   │   └── failed-logon-detection.spl
-│   ├── elastic/
-│   │   └── suspicious-process.kql
-│   └── sigma/
-│       └── powershell-abuse.yml
-│
-├── log-analysis/
-│   ├── windows-event-logs.md
-│   ├── linux-auth-log.md
-│   └── firewall-logs.md
-│
-├── mitre-mapping/
-│   ├── attack-techniques.md
-│   └── real-incident-mapping.md
-│
-├── soc-playbooks/
-│   ├── phishing-playbook.md
-│   ├── brute-force-playbook.md
-│   └── malware-playbook.md
-│
-├── threat-intel/
-│   ├── ioc-collection.md
-│   └── threat-feeds.md
-│
-├── scripts/
-│   ├── log-parser.py
-│   └── hash-checker.py
-│
-└── dashboards/
-    ├── soc-dashboard-examples.md
-    └── alert-triage-workflow.md
-```
-
----
-
 ## 🧠 Skills Demonstrated
 
 * Alert triage & escalation (SOC L1 → L2)
