@@ -10,11 +10,7 @@ This repository represents a **complete SOC Analyst (L1/L2) portfolio** demonstr
 * Alert triage & escalation (SOC L1 → L2)
 * Windows & Linux log analysis
 * SIEM detections (Splunk, Elastic, Sigma)
-* MITRE ATT&CK mapping
-* Incident response lifecycle
-* Threat intelligence & IOC handling
-* SOC documentation & reporting
-* SOC ticketing & handoff notes
+
 
 ---
 
