@@ -113,28 +113,15 @@ index=windows EventCode=4625
 | where count > 5
 ```
 
-### 🔎 Elastic (KQL) – Suspicious Process
+###  Elastic (KQL) – Suspicious Process
 
 ```kql
 process.name : "powershell.exe" and process.command_line : "*-enc*"
 ```
 
-### 🔎 Sigma – PowerShell Abuse
-
-```yaml
-title: Suspicious PowerShell Execution
-logsource:
-  product: windows
-  service: security
-selection:
-  CommandLine|contains: "-enc"
-condition: selection
-level: medium
-```
-
 ---
 
-## 📁 Log Analysis
+##  Log Analysis
 
 ### Windows Event Logs
 
@@ -160,7 +147,7 @@ level: medium
 
 ---
 
-## 🧠 MITRE ATT&CK Mapping
+##  MITRE ATT&CK Mapping
 
 ### Techniques
 
@@ -177,10 +164,6 @@ level: medium
 
 ---
 
-## 📜 SOC Playbooks (L1/L2)
-
-Each playbook follows:
-**Alert → Triage →
 
 
 
