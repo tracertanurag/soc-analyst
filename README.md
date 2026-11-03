@@ -1,11 +1,11 @@
 This repository represents a complete SOC Analyst (L1/L2) portfolio demonstrating real-world blue team skills including alert monitoring, log analysis, incident response, detection engineering, and MITRE ATT&CK mapping
 
-# 🛡️ SOC Analyst (L1/L2) Blue Team Portfolio
+# SOC Analyst (L1/L2) Blue Team Portfolio
 
 This repository represents a **complete SOC Analyst (L1/L2) portfolio** demonstrating **real-world Blue Team operations** including alert monitoring, log analysis, incident response, detection engineering, MITRE ATT&CK mapping, SOC documentation, and escalation workflows.
 
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 * Alert triage & escalation (SOC L1 → L2)
 * Windows & Linux log analysis
@@ -14,9 +14,9 @@ This repository represents a **complete SOC Analyst (L1/L2) portfolio** demonstr
 
 ---
 
-## 🚨 Incident Response Cases
+##  Incident Response Cases
 
-### 📧 Phishing Investigation
+### Phishing Investigation
 
 **Alert Type:** Phishing Email
 **Source:** Secure Email Gateway
@@ -72,7 +72,7 @@ This repository represents a **complete SOC Analyst (L1/L2) portfolio** demonstr
 
 ---
 
-### 🔐 Brute Force Attack
+### Brute Force Attack
 
 **Alert:** Multiple failed login attempts
 
@@ -88,7 +88,7 @@ This repository represents a **complete SOC Analyst (L1/L2) portfolio** demonstr
 
 ---
 
-### 🧨 Ransomware Response
+### Ransomware Response
 
 **Indicators**
 
@@ -105,7 +105,7 @@ This repository represents a **complete SOC Analyst (L1/L2) portfolio** demonstr
 
 ## 📊 Detection Rules
 
-### 🔎 Splunk – Failed Login Detection
+### Splunk – Failed Login Detection
 
 ```spl
 index=windows EventCode=4625
