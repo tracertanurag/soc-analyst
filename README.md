@@ -1,8 +1,8 @@
-This repository represents a complete SOC Analyst (L1/L2) portfolio demonstrating real-world blue team skills including alert monitoring, log analysis, incident response, detection engineering, and MITRE ATT&CK mapping
+This repository represents a complete SOC Analyst portfolio demonstrating real-world blue team skills including alert monitoring, log analysis, incident response, detection engineering, and MITRE ATT&CK mapping
 
-# SOC Analyst (L1/L2) Blue Team Portfolio
+# SOC Analyst  Blue Team 
 
-This repository represents a **complete SOC Analyst (L1/L2) portfolio** demonstrating **real-world Blue Team operations** including alert monitoring, log analysis, incident response, detection engineering, MITRE ATT&CK mapping, SOC documentation, and escalation workflows.
+This repository represents a  SOC Analyst  demonstrating **real-world Blue Team operations** including alert monitoring, log analysis, incident response, detection engineering, MITRE ATT&CK mapping, SOC documentation, and escalation workflows.
 
 
 ## Skills Demonstrated
